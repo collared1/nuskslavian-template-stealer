@@ -1,6 +1,7 @@
 # Nuskslavian Template Stealer
 ## The Story
 [SKIP TO INSTALL INSTRUCTIONS](#Install-Instructions)
+
 Hello there! I'm Collared, and if you dont know me, I am a programmer, and former Administration Chairman of the Lunarianity Ascendancy of Nuskslavia. A couple of months ago, I resigned under not so perfect conditions, but I continued coding for Nuskslavia, as I was promised $150 in exchange for giving Tzarissimus the code for a nukebot, and finishing his website.
 
 Originally, he only promised $150 for when I finished the website, to be paid in 10 months of nitro and $50 in cash, but later we changed the deal, so that payments would start immediately, and I would give him the nukebot code.
