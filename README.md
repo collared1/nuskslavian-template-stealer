@@ -15,7 +15,7 @@ Tzarissimus will try to say I used AI for all of it, but the truth is, I did not
 1. go to Command Prompt (or terminal on mac)
 2. type the following command:
 `pip install discord.py aiohttp`
-3. download the repository files `bot.py` and `selfbot.py` IT IS IMPORTANT THAT selfbot.py REMAIN NAMED EXACTLY THAT.
+3. download the repository files `bot.py` and `selfbot.py` IT IS IMPORTANT THAT selfbot.py REMAIN NAMED **EXACTLY** THAT.
 4. put bot.py and selfbot.py in a folder together in your documents folder
 5. go into bot.py and edit the selfbot token to your discord token
 6. edit the loadbot token into some discord bot token
