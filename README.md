@@ -17,8 +17,8 @@ Tzarissimus will try to say I used AI for all of it, but the truth is, I did not
 `pip install discord.py aiohttp`
 3. download the repository files `bot.py` and `selfbot.py` IT IS IMPORTANT THAT selfbot.py REMAIN NAMED **EXACTLY** THAT.
 4. put bot.py and selfbot.py in a folder together in your documents folder
-5. go into bot.py and edit the selfbot token to your discord token
-6. edit the loadbot token into some discord bot token
+5. go into bot.py and edit the selfbot token to your discord token (look up how to find your token if you dont know)
+6. edit the loadbot token into a discord bot token from the discord developer portal
 7. rename bot.py to whatever you want
 8. IF YOU ARE ON WINDOWS:
 in the Command Prompt run the following command:
