@@ -36,5 +36,7 @@ in the terminal run the following command:
 15. invite that bot to a BLANK SERVER
 16. type !restore
 17. the roles are reversed. THIS IS INTENTIONAL. it is due to a glitch with discord where, when making a template via the API, discord will reverse the roles, and put the bottom role on top, etc. if you want to have the roles normal, but reversed in the template, do `!reverseroles`
+
 **To run it again after closing the terminal/command prompt, redo steps 8-17.**
+
 **If you have any questions, dm me at `c0llared_` on discord.**
